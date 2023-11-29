@@ -1,0 +1,201 @@
+"product_id";"product_name";"brand";"category";"price";"expiration_date";"manufacturer";"supplier_id";"total_stock";"cost"
+1;"Cup - 8oz Coffee Perforated";"http://dummyimage.com/224x100.png/dddddd/000000";"Furnitures";4359.36;"2024-08-14";"Schulist-Ferry";48;9000;3051.55
+2;"Towel Dispenser";"http://dummyimage.com/241x100.png/5fa2dd/ffffff";"Electronics";1106.45;"2026-03-30";"Altenwerth Group";41;8000;774.52
+3;"Soup - Campbells, Classic Chix";"http://dummyimage.com/187x100.png/cc0000/ffffff";"Furnitures";946.27;"2027-03-16";"Gerhold-Mertz";12;9000;662.39
+4;"Soup Campbells Split Pea And Ham";"http://dummyimage.com/211x100.png/dddddd/000000";"Furnitures";4475.15;"2024-05-09";"Mohr-Gutkowski";15;9000;3132.61
+5;"Foam Espresso Cup Plain White";"http://dummyimage.com/216x100.png/cc0000/ffffff";"Beauty";4099.14;"2025-03-03";"Jacobs-Kunze";17;7000;2869.4
+6;"Oil - Peanut";"http://dummyimage.com/134x100.png/5fa2dd/ffffff";"Electronics";449.87;"2024-09-01";"Towne-Effertz";32;8000;314.91
+7;"White Baguette";"http://dummyimage.com/244x100.png/dddddd/000000";"Electronics";4438.48;"2024-03-31";"Hamill-Fay";28;8000;3106.94
+8;"Watercress";"http://dummyimage.com/100x100.png/dddddd/000000";"Electronics";2426.62;"2025-06-19";"Kerluke, Stroman and Stoltenberg";36;8000;1698.63
+9;"Squid U5 - Thailand";"http://dummyimage.com/203x100.png/cc0000/ffffff";"Home";3215.15;"2023-12-25";"Keeling Inc";42;6000;2250.61
+10;"Fond - Neutral";"http://dummyimage.com/151x100.png/5fa2dd/ffffff";"Clothing";4500.48;"2025-02-15";"Jacobi-Okuneva";19;90000;3150.34
+11;"Cocktail Napkin Blue";"http://dummyimage.com/206x100.png/cc0000/ffffff";"Home";3638.26;"2023-08-04";"Davis, Doyle and Padberg";28;6000;2546.78
+12;"Lettuce - Lolla Rosa";"http://dummyimage.com/164x100.png/ff4444/ffffff";"Home";3568.39;"2025-04-10";"Fisher Inc";25;6000;2497.87
+13;"Figs";"http://dummyimage.com/214x100.png/5fa2dd/ffffff";"Clothing";297.43;"2026-04-01";"Emard Group";26;90000;208.2
+14;"Nut - Pistachio, Shelled";"http://dummyimage.com/156x100.png/5fa2dd/ffffff";"Home";2677.06;"2025-12-22";"Sauer LLC";8;6000;1873.94
+15;"Crab - Claws, Snow 16 - 24";"http://dummyimage.com/134x100.png/dddddd/000000";"Electronics";2485.26;"2023-01-21";"Leffler-Kemmer";42;8000;1739.68
+16;"Wine - Winzer Krems Gruner";"http://dummyimage.com/232x100.png/cc0000/ffffff";"Beauty";3269.18;"2026-12-14";"Flatley, Roberts and Murazik";11;7000;2288.43
+17;"Tomato Paste";"http://dummyimage.com/121x100.png/5fa2dd/ffffff";"Clothing";369.47;"2026-08-07";"Conroy LLC";36;90000;258.63
+18;"Rosemary - Primerba, Paste";"http://dummyimage.com/125x100.png/dddddd/000000";"Beauty";3138.98;"2023-04-04";"Krajcik-Hirthe";48;7000;2197.29
+19;"Godiva White Chocolate";"http://dummyimage.com/111x100.png/5fa2dd/ffffff";"Electronics";2160.53;"2025-05-05";"Adams and Sons";2;8000;1512.37
+20;"Haggis";"http://dummyimage.com/130x100.png/cc0000/ffffff";"Home";1439.31;"2023-12-28";"Koch, Haley and Reilly";43;6000;1007.52
+21;"Crab Meat Claw Pasteurise";"http://dummyimage.com/167x100.png/dddddd/000000";"Electronics";395.0;"2027-03-27";"Parisian, Streich and Baumbach";43;8000;276.5
+22;"Arctic Char - Fillets";"http://dummyimage.com/130x100.png/5fa2dd/ffffff";"Clothing";610.17;"2024-06-20";"Crona, Senger and Crooks";47;90000;427.12
+23;"Sauce - Rosee";"http://dummyimage.com/243x100.png/dddddd/000000";"Electronics";446.86;"2025-08-29";"Fritsch-Nicolas";19;8000;312.8
+24;"Wine - Niagara Peninsula Vqa";"http://dummyimage.com/205x100.png/dddddd/000000";"Beauty";2659.09;"2026-10-11";"Rempel, Harber and Zboncak";48;7000;1861.36
+25;"Extract - Lemon";"http://dummyimage.com/229x100.png/dddddd/000000";"Beauty";2954.25;"2024-10-26";"Nader Inc";47;7000;2067.98
+26;"Cucumber - Pickling Ontario";"http://dummyimage.com/235x100.png/5fa2dd/ffffff";"Electronics";3319.43;"2023-03-26";"Maggio Inc";32;8000;2323.6
+27;"Bagel - Ched Chs Presliced";"http://dummyimage.com/107x100.png/ff4444/ffffff";"Furnitures";1232.37;"2025-04-18";"Swaniawski, Larkin and Daugherty";46;9000;862.66
+28;"Wine - Red, Gallo, Merlot";"http://dummyimage.com/192x100.png/5fa2dd/ffffff";"Beauty";2222.39;"2027-10-14";"Leffler Inc";9;7000;1555.67
+29;"Wine - Red, Cooking";"http://dummyimage.com/190x100.png/dddddd/000000";"Furnitures";2019.37;"2024-07-09";"Witting LLC";20;9000;1413.56
+30;"Mousse - Banana Chocolate";"http://dummyimage.com/170x100.png/5fa2dd/ffffff";"Electronics";3311.13;"2024-08-17";"Berge-Graham";7;8000;2317.79
+31;"Juice - Tomato, 48 Oz";"http://dummyimage.com/128x100.png/cc0000/ffffff";"Beauty";817.89;"2026-04-22";"Rath-Runolfsdottir";36;7000;572.52
+32;"Toothpick Frilled";"http://dummyimage.com/135x100.png/cc0000/ffffff";"Furnitures";3827.22;"2027-12-07";"Klein-Lueilwitz";10;9000;2679.05
+33;"Puff Pastry - Sheets";"http://dummyimage.com/126x100.png/5fa2dd/ffffff";"Home";3463.57;"2026-12-19";"Moen-Upton";32;6000;2424.5
+34;"Carrots - Mini, Stem On";"http://dummyimage.com/162x100.png/5fa2dd/ffffff";"Beauty";3165.91;"2026-11-19";"Prosacco-Fadel";36;7000;2216.14
+35;"Rice - Brown";"http://dummyimage.com/147x100.png/5fa2dd/ffffff";"Beauty";1263.53;"2025-04-23";"Gottlieb-Cormier";26;7000;884.47
+36;"Pork - Suckling Pig";"http://dummyimage.com/194x100.png/cc0000/ffffff";"Electronics";3018.44;"2023-10-27";"Osinski Group";5;8000;2112.91
+37;"Kellogs Special K Cereal";"http://dummyimage.com/113x100.png/cc0000/ffffff";"Electronics";3401.09;"2026-11-05";"Schiller-Gusikowski";43;8000;2380.76
+38;"Mousse - Passion Fruit";"http://dummyimage.com/115x100.png/5fa2dd/ffffff";"Beauty";2661.36;"2023-08-11";"Batz, Rippin and Schinner";46;7000;1862.95
+39;"Cookies Oatmeal Raisin";"http://dummyimage.com/210x100.png/dddddd/000000";"Electronics";4669.5;"2025-02-10";"Will Inc";36;8000;3268.65
+40;"Milk - Condensed";"http://dummyimage.com/208x100.png/dddddd/000000";"Furnitures";250.91;"2025-09-03";"Lockman, Williamson and Streich";7;9000;175.64
+41;"Jello - Assorted";"http://dummyimage.com/161x100.png/5fa2dd/ffffff";"Beauty";2825.07;"2023-05-22";"Considine, Balistreri and Cassin";30;7000;1977.55
+42;"Dried Peach";"http://dummyimage.com/203x100.png/ff4444/ffffff";"Electronics";923.12;"2026-07-24";"Abshire-Rau";46;8000;646.18
+43;"Bread - Italian Corn Meal Poly";"http://dummyimage.com/134x100.png/ff4444/ffffff";"Beauty";4794.07;"2024-02-06";"Kerluke, Pollich and Kerluke";32;7000;3355.85
+44;"Halibut - Fletches";"http://dummyimage.com/233x100.png/cc0000/ffffff";"Electronics";1793.97;"2024-02-05";"Littel, Marks and Stamm";2;8000;1255.78
+45;"Pheasants - Whole";"http://dummyimage.com/131x100.png/cc0000/ffffff";"Furnitures";902.34;"2025-10-20";"Ortiz, Ziemann and Ziemann";15;9000;631.64
+46;"Artichokes - Jerusalem";"http://dummyimage.com/175x100.png/ff4444/ffffff";"Clothing";1490.7;"2023-01-18";"Quigley, Torphy and West";41;90000;1043.49
+47;"Jam - Raspberry,jar";"http://dummyimage.com/142x100.png/5fa2dd/ffffff";"Electronics";4835.3;"2026-09-25";"Sawayn, Pfannerstill and Mills";5;8000;3384.71
+48;"Juice - Apple, 1.36l";"http://dummyimage.com/120x100.png/dddddd/000000";"Electronics";2344.76;"2025-03-09";"Hilll and Sons";32;8000;1641.33
+49;"Foil Cont Round";"http://dummyimage.com/168x100.png/5fa2dd/ffffff";"Home";1553.32;"2027-05-12";"Willms, Orn and Larkin";7;6000;1087.32
+50;"Muffin Orange Individual";"http://dummyimage.com/246x100.png/ff4444/ffffff";"Furnitures";4881.8;"2024-01-13";"Smith-Carroll";1;9000;3417.26
+51;"Carbonated Water - White Grape";"http://dummyimage.com/226x100.png/5fa2dd/ffffff";"Beauty";4792.42;"2023-05-23";"Dietrich-Goldner";29;7000;3354.69
+52;"Carrots - Purple, Organic";"http://dummyimage.com/196x100.png/dddddd/000000";"Home";1526.59;"2024-03-09";"Graham Group";38;6000;1068.61
+53;"Danishes - Mini Raspberry";"http://dummyimage.com/238x100.png/cc0000/ffffff";"Furnitures";1367.68;"2025-06-10";"Rodriguez-Lind";40;9000;957.38
+54;"Wine - Magnotta - Pinot Gris Sr";"http://dummyimage.com/246x100.png/dddddd/000000";"Furnitures";4890.69;"2023-10-03";"Daniel-Wuckert";49;9000;3423.48
+55;"Olives - Kalamata";"http://dummyimage.com/156x100.png/cc0000/ffffff";"Clothing";4893.52;"2024-11-23";"Bergnaum, Emard and Jast";7;90000;3425.46
+56;"Halibut - Fletches";"http://dummyimage.com/148x100.png/dddddd/000000";"Electronics";2126.75;"2027-08-07";"Kuphal-Zieme";3;8000;1488.73
+57;"Cheese - Victor Et Berthold";"http://dummyimage.com/111x100.png/5fa2dd/ffffff";"Home";4865.03;"2024-06-28";"Lehner-Dooley";30;6000;3405.52
+58;"Onions - Pearl";"http://dummyimage.com/204x100.png/dddddd/000000";"Electronics";4576.61;"2024-09-12";"Greenfelder LLC";33;8000;3203.63
+59;"Cream Of Tartar";"http://dummyimage.com/187x100.png/5fa2dd/ffffff";"Clothing";4389.74;"2026-11-21";"Wolff-Trantow";29;90000;3072.82
+60;"Ham Black Forest";"http://dummyimage.com/169x100.png/dddddd/000000";"Home";3024.29;"2025-06-02";"Hayes-Douglas";22;6000;2117.0
+61;"Bag Clear 10 Lb";"http://dummyimage.com/150x100.png/cc0000/ffffff";"Clothing";770.57;"2024-10-03";"Bailey-Grimes";49;90000;539.4
+62;"Flower - Daisies";"http://dummyimage.com/116x100.png/ff4444/ffffff";"Home";1995.84;"2025-04-08";"Sanford and Sons";31;6000;1397.09
+63;"Lemonade - Strawberry, 591 Ml";"http://dummyimage.com/110x100.png/cc0000/ffffff";"Electronics";1537.74;"2024-10-15";"Rogahn Inc";36;8000;1076.42
+64;"Wine - Pinot Noir Latour";"http://dummyimage.com/198x100.png/cc0000/ffffff";"Home";2411.54;"2027-12-19";"Kuhn, Schultz and Kutch";37;6000;1688.08
+65;"Cookies - Amaretto";"http://dummyimage.com/228x100.png/5fa2dd/ffffff";"Clothing";1347.64;"2023-12-19";"Kling-Johns";12;90000;943.35
+66;"Sausage - Meat";"http://dummyimage.com/202x100.png/dddddd/000000";"Electronics";2679.28;"2024-10-18";"Mayer, Paucek and O'Keefe";40;8000;1875.5
+67;"Whmis Spray Bottle Graduated";"http://dummyimage.com/188x100.png/dddddd/000000";"Furnitures";386.79;"2027-06-29";"Buckridge-Denesik";37;9000;270.75
+68;"Longan";"http://dummyimage.com/246x100.png/5fa2dd/ffffff";"Beauty";4086.78;"2026-04-18";"Herzog-Ratke";22;7000;2860.75
+69;"Fish - Scallops, Cold Smoked";"http://dummyimage.com/244x100.png/dddddd/000000";"Home";1415.0;"2027-08-16";"Stoltenberg, Tillman and King";5;6000;990.5
+70;"Peach - Fresh";"http://dummyimage.com/173x100.png/cc0000/ffffff";"Home";1205.61;"2027-05-01";"Barrows-Crooks";4;6000;843.93
+71;"Madeira";"http://dummyimage.com/135x100.png/5fa2dd/ffffff";"Furnitures";3476.4;"2026-08-20";"Fadel, Farrell and Schuppe";24;9000;2433.48
+72;"Arizona - Green Tea";"http://dummyimage.com/131x100.png/5fa2dd/ffffff";"Clothing";3488.73;"2025-12-12";"Zieme-Kris";47;90000;2442.11
+73;"Pork Loin Bine - In Frenched";"http://dummyimage.com/161x100.png/ff4444/ffffff";"Beauty";1004.82;"2024-04-23";"Ratke-Roberts";29;7000;703.37
+74;"Bread - English Muffin";"http://dummyimage.com/218x100.png/cc0000/ffffff";"Beauty";4341.04;"2026-11-29";"Jast, Schumm and Marks";25;7000;3038.73
+75;"Momiji Oroshi Chili Sauce";"http://dummyimage.com/106x100.png/cc0000/ffffff";"Home";2840.02;"2027-04-26";"Fisher, Jacobs and Lubowitz";22;6000;1988.01
+76;"Syrup - Monin - Passion Fruit";"http://dummyimage.com/238x100.png/ff4444/ffffff";"Clothing";2806.29;"2025-12-31";"Russel Group";40;90000;1964.4
+77;"Napkin - Dinner, White";"http://dummyimage.com/108x100.png/dddddd/000000";"Clothing";3416.08;"2024-03-04";"Boyer Group";5;90000;2391.26
+78;"Tomatoes - Heirloom";"http://dummyimage.com/151x100.png/dddddd/000000";"Beauty";4520.93;"2025-05-08";"Ankunding-Hane";6;7000;3164.65
+79;"Lamb Leg - Bone - In Nz";"http://dummyimage.com/110x100.png/ff4444/ffffff";"Electronics";2875.03;"2023-07-25";"MacGyver, Wolf and Swaniawski";19;8000;2012.52
+80;"Beans - Wax";"http://dummyimage.com/189x100.png/dddddd/000000";"Clothing";1919.17;"2027-01-05";"Wehner and Sons";14;90000;1343.42
+81;"Pie Filling - Pumpkin";"http://dummyimage.com/165x100.png/ff4444/ffffff";"Furnitures";4979.17;"2024-01-15";"Labadie-Boyer";50;9000;3485.42
+82;"Calvados - Boulard";"http://dummyimage.com/169x100.png/ff4444/ffffff";"Clothing";4734.39;"2026-09-28";"Hodkiewicz Group";41;90000;3314.07
+83;"Lobster - Tail, 3 - 4 Oz";"http://dummyimage.com/122x100.png/cc0000/ffffff";"Beauty";685.14;"2027-02-04";"Luettgen and Sons";42;7000;479.6
+84;"Fish - Bones";"http://dummyimage.com/228x100.png/ff4444/ffffff";"Electronics";4186.77;"2025-02-04";"Collins, Glover and Auer";9;8000;2930.74
+85;"Sauce - Gravy, Au Jus, Mix";"http://dummyimage.com/244x100.png/cc0000/ffffff";"Home";4703.07;"2027-11-29";"Stokes-Moen";4;6000;3292.15
+86;"Chocolate Bar - Smarties";"http://dummyimage.com/230x100.png/ff4444/ffffff";"Beauty";4941.88;"2023-07-02";"Bogan-Luettgen";34;7000;3459.32
+87;"Cake - Dulce De Leche";"http://dummyimage.com/203x100.png/ff4444/ffffff";"Beauty";4540.9;"2025-04-12";"Casper-Pfeffer";16;7000;3178.63
+88;"Pernod";"http://dummyimage.com/214x100.png/dddddd/000000";"Clothing";684.89;"2025-10-22";"Crist-Veum";32;90000;479.42
+89;"Longan";"http://dummyimage.com/178x100.png/cc0000/ffffff";"Electronics";1159.82;"2026-02-09";"Kohler, Bosco and Harber";45;8000;811.87
+90;"Chicken - Wieners";"http://dummyimage.com/232x100.png/dddddd/000000";"Home";3681.08;"2026-03-05";"Greenholt-Kutch";35;6000;2576.76
+91;"Crackers - Soda / Saltins";"http://dummyimage.com/199x100.png/5fa2dd/ffffff";"Electronics";2880.48;"2026-12-18";"Berge-Bayer";2;8000;2016.34
+92;"Browning Caramel Glace";"http://dummyimage.com/130x100.png/5fa2dd/ffffff";"Beauty";3496.89;"2027-07-05";"MacGyver, Harber and Torphy";29;7000;2447.82
+93;"Chicken Giblets";"http://dummyimage.com/206x100.png/cc0000/ffffff";"Home";1781.16;"2024-04-18";"Ullrich LLC";29;6000;1246.81
+94;"Roe - Lump Fish, Black";"http://dummyimage.com/121x100.png/dddddd/000000";"Clothing";1951.96;"2023-10-13";"Crona, Crooks and Shanahan";45;90000;1366.37
+95;"Spinach - Frozen";"http://dummyimage.com/150x100.png/dddddd/000000";"Furnitures";832.89;"2026-03-12";"Paucek-Kiehn";8;9000;583.02
+96;"Bread - White Mini Epi";"http://dummyimage.com/222x100.png/cc0000/ffffff";"Furnitures";4367.66;"2026-10-23";"Harris-Dach";11;9000;3057.36
+97;"Cheese - Wine";"http://dummyimage.com/232x100.png/dddddd/000000";"Clothing";3747.04;"2026-04-24";"DuBuque-Osinski";24;90000;2622.93
+98;"Stock - Beef, Brown";"http://dummyimage.com/153x100.png/5fa2dd/ffffff";"Electronics";4669.12;"2024-06-09";"Metz Group";23;8000;3268.38
+99;"Soup Campbells - Tomato Bisque";"http://dummyimage.com/184x100.png/5fa2dd/ffffff";"Furnitures";3847.87;"2024-12-11";"Streich LLC";34;9000;2693.51
+100;"Beer - Maudite";"http://dummyimage.com/111x100.png/cc0000/ffffff";"Electronics";2997.48;"2027-02-23";"Runte Group";20;8000;2098.24
+101;"Beef - Striploin Aa";"http://dummyimage.com/158x100.png/5fa2dd/ffffff";"Electronics";916.36;"2026-07-27";"Wiza, Rempel and Ledner";27;8000;641.45
+102;"Veal - Inside, Choice";"http://dummyimage.com/249x100.png/cc0000/ffffff";"Clothing";375.98;"2025-12-11";"Bins, Schumm and Cassin";24;90000;263.19
+103;"Bread - 10 Grain Parisian";"http://dummyimage.com/213x100.png/cc0000/ffffff";"Home";2801.04;"2023-04-21";"Hirthe, Crist and Yundt";40;6000;1960.73
+104;"Icecream - Dstk Super Cone";"http://dummyimage.com/113x100.png/dddddd/000000";"Beauty";3126.1;"2026-06-11";"Sporer-Kuhic";1;7000;2188.27
+105;"Tea Leaves - Oolong";"http://dummyimage.com/116x100.png/ff4444/ffffff";"Home";3359.9;"2027-04-10";"Gorczany, Schiller and Marvin";44;6000;2351.93
+106;"Poppy Seed";"http://dummyimage.com/101x100.png/5fa2dd/ffffff";"Electronics";3036.21;"2023-11-19";"Hagenes LLC";50;8000;2125.35
+107;"Praline Paste";"http://dummyimage.com/233x100.png/cc0000/ffffff";"Beauty";2044.85;"2023-07-10";"Schinner, Koepp and Torphy";7;7000;1431.4
+108;"Sauce Tomato Pouch";"http://dummyimage.com/230x100.png/cc0000/ffffff";"Clothing";3412.81;"2026-05-09";"Wilkinson-Thiel";24;90000;2388.97
+109;"Syrup - Monin - Passion Fruit";"http://dummyimage.com/131x100.png/5fa2dd/ffffff";"Home";552.23;"2027-11-11";"Blick, Stracke and Stroman";32;6000;386.56
+110;"Syrup - Chocolate";"http://dummyimage.com/128x100.png/dddddd/000000";"Beauty";1846.37;"2023-04-19";"Fisher, Predovic and Hand";26;7000;1292.46
+111;"Ecolab - Lime - A - Way 4/4 L";"http://dummyimage.com/149x100.png/dddddd/000000";"Beauty";1639.82;"2026-10-17";"Hahn-Waters";26;7000;1147.87
+112;"Potatoes - Mini White 3 Oz";"http://dummyimage.com/185x100.png/5fa2dd/ffffff";"Furnitures";116.49;"2027-07-03";"Mueller, Schumm and Waelchi";36;9000;81.54
+113;"Puree - Raspberry";"http://dummyimage.com/198x100.png/5fa2dd/ffffff";"Beauty";2722.28;"2023-02-28";"Sawayn-Abbott";14;7000;1905.6
+114;"Bread - Bistro White";"http://dummyimage.com/195x100.png/ff4444/ffffff";"Clothing";3690.75;"2024-05-20";"Schmidt-Johns";31;90000;2583.53
+115;"Sauce - Hoisin";"http://dummyimage.com/177x100.png/5fa2dd/ffffff";"Clothing";3752.34;"2025-10-21";"Klein-West";29;90000;2626.64
+116;"Yeast - Fresh, Fleischman";"http://dummyimage.com/236x100.png/dddddd/000000";"Home";2579.44;"2026-08-04";"Jacobs Group";28;6000;1805.61
+117;"Pepper Squash";"http://dummyimage.com/165x100.png/dddddd/000000";"Home";3674.33;"2023-11-22";"Parker, Hauck and Fadel";40;6000;2572.03
+118;"Beer - Rickards Red";"http://dummyimage.com/186x100.png/ff4444/ffffff";"Electronics";4378.71;"2027-05-13";"Goodwin, Hane and Gislason";50;8000;3065.1
+119;"Cotton Wet Mop 16 Oz";"http://dummyimage.com/143x100.png/5fa2dd/ffffff";"Beauty";4397.94;"2025-01-10";"Schulist LLC";43;7000;3078.56
+120;"Cookie - Oatmeal";"http://dummyimage.com/169x100.png/cc0000/ffffff";"Beauty";1968.79;"2027-10-08";"Bayer LLC";43;7000;1378.15
+121;"Roe - Lump Fish, Red";"http://dummyimage.com/185x100.png/ff4444/ffffff";"Clothing";2777.95;"2026-08-25";"Weber-Russel";7;90000;1944.57
+122;"Chinese Foods - Cantonese";"http://dummyimage.com/224x100.png/ff4444/ffffff";"Clothing";2735.57;"2027-02-05";"Goyette-Paucek";7;90000;1914.9
+123;"Table Cloth 144x90 White";"http://dummyimage.com/233x100.png/cc0000/ffffff";"Electronics";2728.97;"2023-11-03";"Ankunding, Lang and Davis";34;8000;1910.28
+124;"Table Cloth 53x69 White";"http://dummyimage.com/173x100.png/dddddd/000000";"Beauty";2363.74;"2024-03-29";"Shields, Reinger and Sanford";41;7000;1654.62
+125;"Oil - Hazelnut";"http://dummyimage.com/165x100.png/ff4444/ffffff";"Electronics";2613.92;"2027-02-22";"Schmidt-Hermann";21;8000;1829.74
+126;"Tarragon - Primerba, Paste";"http://dummyimage.com/244x100.png/dddddd/000000";"Clothing";4645.6;"2027-11-24";"Erdman and Sons";18;90000;3251.92
+127;"Pepper - Yellow Bell";"http://dummyimage.com/237x100.png/cc0000/ffffff";"Clothing";3216.43;"2026-01-02";"Simonis LLC";27;90000;2251.5
+128;"Grouper - Fresh";"http://dummyimage.com/107x100.png/cc0000/ffffff";"Beauty";1286.11;"2026-01-24";"Kunde Group";14;7000;900.28
+129;"Bread Foccacia Whole";"http://dummyimage.com/175x100.png/cc0000/ffffff";"Beauty";1903.19;"2023-12-17";"Jast-Ortiz";11;7000;1332.23
+130;"Pineapple - Golden";"http://dummyimage.com/244x100.png/ff4444/ffffff";"Home";3682.28;"2026-03-02";"Larkin, Gleason and Borer";32;6000;2577.6
+131;"Water - Tonic";"http://dummyimage.com/100x100.png/dddddd/000000";"Electronics";1770.87;"2024-10-22";"Cremin-Veum";37;8000;1239.61
+132;"Lamb - Whole, Fresh";"http://dummyimage.com/221x100.png/5fa2dd/ffffff";"Clothing";4450.66;"2024-08-16";"Runolfsson Group";43;90000;3115.46
+133;"Wine - Magnotta - Belpaese";"http://dummyimage.com/138x100.png/cc0000/ffffff";"Beauty";4397.91;"2023-08-10";"Altenwerth, Wilkinson and Schiller";49;7000;3078.54
+134;"Scallops - 10/20";"http://dummyimage.com/174x100.png/dddddd/000000";"Beauty";4866.03;"2027-08-30";"Morar LLC";15;7000;3406.22
+135;"Steam Pan - Half Size Deep";"http://dummyimage.com/225x100.png/dddddd/000000";"Beauty";987.9;"2025-04-09";"Quitzon, Pollich and Senger";27;7000;691.53
+136;"Vegetable - Base";"http://dummyimage.com/164x100.png/ff4444/ffffff";"Clothing";3532.09;"2024-07-06";"Rohan, Koepp and Paucek";21;90000;2472.46
+137;"Island Oasis - Mango Daiquiri";"http://dummyimage.com/136x100.png/cc0000/ffffff";"Home";1576.63;"2025-03-10";"Dickinson-Senger";26;6000;1103.64
+138;"Wine - Valpolicella Masi";"http://dummyimage.com/192x100.png/5fa2dd/ffffff";"Home";818.92;"2026-06-23";"Yundt, Kiehn and Pouros";7;6000;573.24
+139;"Liners - Baking Cups";"http://dummyimage.com/192x100.png/ff4444/ffffff";"Beauty";3844.14;"2026-10-16";"Bashirian, Price and Spencer";10;7000;2690.9
+140;"Danishes - Mini Cheese";"http://dummyimage.com/225x100.png/dddddd/000000";"Home";3445.93;"2026-09-10";"Barton-Collins";30;6000;2412.15
+141;"Godiva White Chocolate";"http://dummyimage.com/130x100.png/ff4444/ffffff";"Furnitures";2601.04;"2024-02-13";"Hills Group";35;9000;1820.73
+142;"Cheese - Comte";"http://dummyimage.com/114x100.png/cc0000/ffffff";"Home";3501.03;"2025-01-02";"Considine, Ebert and Larson";43;6000;2450.72
+143;"Ranchero - Primerba, Paste";"http://dummyimage.com/114x100.png/5fa2dd/ffffff";"Beauty";2543.67;"2027-08-04";"Stamm-Bashirian";21;7000;1780.57
+144;"Bandage - Finger Cots";"http://dummyimage.com/199x100.png/cc0000/ffffff";"Electronics";3246.03;"2026-01-08";"Carroll-Sipes";9;8000;2272.22
+145;"Cheese Cloth No 100";"http://dummyimage.com/144x100.png/cc0000/ffffff";"Furnitures";2023.67;"2023-11-01";"Littel Inc";42;9000;1416.57
+146;"Spring Roll Wrappers";"http://dummyimage.com/212x100.png/ff4444/ffffff";"Home";3121.1;"2024-04-04";"Will, Gerhold and Wunsch";8;6000;2184.77
+147;"Sorrel - Fresh";"http://dummyimage.com/102x100.png/dddddd/000000";"Clothing";2973.89;"2025-07-25";"Schoen, Farrell and Stiedemann";21;90000;2081.72
+148;"Rum - Coconut, Malibu";"http://dummyimage.com/115x100.png/cc0000/ffffff";"Furnitures";4449.68;"2023-08-20";"McLaughlin-Witting";31;9000;3114.78
+149;"Muffin Mix - Banana Nut";"http://dummyimage.com/103x100.png/dddddd/000000";"Furnitures";2061.2;"2027-06-29";"Cruickshank, Sporer and McLaughlin";18;9000;1442.84
+150;"Pie Shells 10";"http://dummyimage.com/113x100.png/5fa2dd/ffffff";"Clothing";4139.99;"2027-12-12";"Abbott-Orn";31;90000;2897.99
+151;"Pork - Shoulder";"http://dummyimage.com/158x100.png/cc0000/ffffff";"Furnitures";4832.57;"2026-02-26";"Ebert-D'Amore";14;9000;3382.8
+152;"Pasta - Spaghetti, Dry";"http://dummyimage.com/201x100.png/dddddd/000000";"Clothing";3523.47;"2025-03-03";"Willms Group";43;90000;2466.43
+153;"Crush - Grape, 355 Ml";"http://dummyimage.com/163x100.png/ff4444/ffffff";"Home";3758.06;"2023-08-08";"Schimmel Inc";22;6000;2630.64
+154;"Yogurt - Cherry, 175 Gr";"http://dummyimage.com/136x100.png/cc0000/ffffff";"Furnitures";1607.25;"2023-03-07";"Gutkowski-Trantow";28;9000;1125.08
+155;"Muffin Mix - Raisin Bran";"http://dummyimage.com/232x100.png/ff4444/ffffff";"Clothing";4331.37;"2026-06-24";"Boyer, Skiles and Goyette";33;90000;3031.96
+156;"Beef - Rouladin, Sliced";"http://dummyimage.com/217x100.png/cc0000/ffffff";"Furnitures";4786.61;"2026-05-14";"White Inc";41;9000;3350.63
+157;"Tumeric";"http://dummyimage.com/207x100.png/ff4444/ffffff";"Electronics";986.09;"2026-02-17";"Kulas-Fritsch";33;8000;690.26
+158;"Pasta - Ravioli";"http://dummyimage.com/231x100.png/ff4444/ffffff";"Clothing";403.18;"2026-04-04";"Jacobson, Reichert and Stracke";50;90000;282.23
+159;"Cream - 10%";"http://dummyimage.com/230x100.png/ff4444/ffffff";"Furnitures";4226.32;"2024-02-11";"Beatty-Thiel";3;9000;2958.42
+160;"Oyster - In Shell";"http://dummyimage.com/120x100.png/5fa2dd/ffffff";"Beauty";3007.65;"2024-01-05";"Hahn and Sons";39;7000;2105.36
+161;"Energy Drink - Franks Original";"http://dummyimage.com/243x100.png/5fa2dd/ffffff";"Furnitures";750.61;"2024-09-05";"Roberts, Weber and Padberg";23;9000;525.43
+162;"Appetizer - Southwestern";"http://dummyimage.com/234x100.png/ff4444/ffffff";"Electronics";4771.32;"2027-08-05";"Schowalter-Crona";40;8000;3339.92
+163;"Juice - Tomato, 48 Oz";"http://dummyimage.com/241x100.png/cc0000/ffffff";"Electronics";1161.63;"2025-09-25";"Langworth Inc";41;8000;813.14
+164;"Soup - Tomato Mush. Florentine";"http://dummyimage.com/113x100.png/5fa2dd/ffffff";"Electronics";4162.33;"2026-12-25";"Towne, Sauer and Pfeffer";2;8000;2913.63
+165;"Leeks - Baby, White";"http://dummyimage.com/157x100.png/ff4444/ffffff";"Furnitures";409.41;"2024-05-13";"Kunze, Pacocha and Collins";36;9000;286.59
+166;"Versatainer Nc - 888";"http://dummyimage.com/237x100.png/cc0000/ffffff";"Beauty";4161.85;"2023-06-04";"Metz, Kris and Mayert";10;7000;2913.3
+167;"Pepper - Roasted Red";"http://dummyimage.com/110x100.png/ff4444/ffffff";"Beauty";4225.55;"2023-01-27";"Renner and Sons";27;7000;2957.89
+168;"Sauce - Mint";"http://dummyimage.com/248x100.png/ff4444/ffffff";"Clothing";4755.15;"2024-09-11";"Beer, Treutel and Cummings";40;90000;3328.61
+169;"Crackers - Melba Toast";"http://dummyimage.com/200x100.png/cc0000/ffffff";"Furnitures";2256.72;"2023-07-25";"Schumm Group";13;9000;1579.7
+170;"Sauce - Roasted Red Pepper";"http://dummyimage.com/203x100.png/ff4444/ffffff";"Electronics";1541.47;"2024-07-02";"Rowe, Haag and Nitzsche";33;8000;1079.03
+171;"Wine - White, French Cross";"http://dummyimage.com/165x100.png/dddddd/000000";"Furnitures";1875.86;"2023-01-08";"Pacocha, Beer and Emard";15;9000;1313.1
+172;"Arctic Char - Fillets";"http://dummyimage.com/130x100.png/ff4444/ffffff";"Home";4719.5;"2024-02-28";"White, Jacobi and Littel";16;6000;3303.65
+173;"Cardamon Seed / Pod";"http://dummyimage.com/190x100.png/cc0000/ffffff";"Home";760.07;"2024-11-07";"Ledner-Nienow";39;6000;532.05
+174;"Stock - Veal, White";"http://dummyimage.com/200x100.png/5fa2dd/ffffff";"Beauty";3199.59;"2023-06-05";"Wilkinson LLC";50;7000;2239.71
+175;"Lamb Rack - Ontario";"http://dummyimage.com/144x100.png/cc0000/ffffff";"Beauty";1916.62;"2024-08-04";"Kuhlman, Kreiger and Abernathy";37;7000;1341.63
+176;"Veal - Nuckle";"http://dummyimage.com/130x100.png/dddddd/000000";"Beauty";2594.15;"2025-11-03";"Padberg, Sipes and Klocko";16;7000;1815.91
+177;"Turkey - Breast, Bone - In";"http://dummyimage.com/173x100.png/ff4444/ffffff";"Furnitures";3185.79;"2024-02-14";"Langworth, Casper and Toy";20;9000;2230.05
+178;"Sobe - Orange Carrot";"http://dummyimage.com/241x100.png/dddddd/000000";"Furnitures";1880.79;"2024-08-22";"Hills LLC";37;9000;1316.55
+179;"Wine - Red, Metus Rose";"http://dummyimage.com/112x100.png/5fa2dd/ffffff";"Electronics";4016.02;"2026-06-30";"Raynor-Dicki";12;8000;2811.21
+180;"Beer - Camerons Cream Ale";"http://dummyimage.com/114x100.png/dddddd/000000";"Home";3227.83;"2023-04-14";"Kovacek and Sons";2;6000;2259.48
+181;"Cherries - Maraschino,jar";"http://dummyimage.com/210x100.png/dddddd/000000";"Home";3271.87;"2023-07-20";"Sauer, Luettgen and Kunde";2;6000;2290.31
+182;"Wine - Dubouef Macon - Villages";"http://dummyimage.com/138x100.png/cc0000/ffffff";"Electronics";1681.3;"2026-12-30";"Effertz and Sons";2;8000;1176.91
+183;"Huck White Towels";"http://dummyimage.com/123x100.png/dddddd/000000";"Home";3497.15;"2026-08-03";"Gusikowski, Wiegand and Stanton";2;6000;2448.01
+184;"Pasta - Fettuccine, Dry";"http://dummyimage.com/161x100.png/ff4444/ffffff";"Home";1404.5;"2026-01-11";"Morissette, Weissnat and Harber";13;6000;983.15
+185;"Cattail Hearts";"http://dummyimage.com/150x100.png/5fa2dd/ffffff";"Furnitures";3215.19;"2026-10-15";"Kulas, Zieme and Farrell";50;9000;2250.63
+186;"Butter Balls Salted";"http://dummyimage.com/235x100.png/cc0000/ffffff";"Beauty";1516.74;"2023-04-22";"Schaden-Hickle";33;7000;1061.72
+187;"Mustard - Dry, Powder";"http://dummyimage.com/223x100.png/ff4444/ffffff";"Furnitures";4137.54;"2025-12-19";"Pfannerstill Inc";28;9000;2896.28
+188;"Pork Casing";"http://dummyimage.com/164x100.png/ff4444/ffffff";"Electronics";2580.46;"2023-11-04";"Schneider and Sons";43;8000;1806.32
+189;"Steampan Lid";"http://dummyimage.com/116x100.png/cc0000/ffffff";"Furnitures";2665.05;"2023-07-28";"Mante and Sons";46;9000;1865.54
+190;"Oil - Avocado";"http://dummyimage.com/173x100.png/5fa2dd/ffffff";"Home";2938.54;"2023-03-23";"Windler, Wehner and Kirlin";42;6000;2056.98
+191;"Squid - Tubes / Tenticles 10/20";"http://dummyimage.com/147x100.png/5fa2dd/ffffff";"Furnitures";3824.34;"2024-07-19";"Marquardt Inc";8;9000;2677.04
+192;"Onions - Pearl";"http://dummyimage.com/108x100.png/5fa2dd/ffffff";"Clothing";1156.54;"2023-12-29";"Rohan, Koepp and Hammes";41;90000;809.58
+193;"Blouse / Shirt / Sweater";"http://dummyimage.com/227x100.png/dddddd/000000";"Clothing";2043.68;"2024-12-15";"Hammes Inc";44;90000;1430.58
+194;"Wine - Sauvignon Blanc";"http://dummyimage.com/221x100.png/ff4444/ffffff";"Clothing";357.84;"2027-01-21";"Franecki Group";9;90000;250.49
+195;"Cheese - Gouda";"http://dummyimage.com/191x100.png/dddddd/000000";"Home";4390.02;"2027-02-23";"Cassin Group";20;6000;3073.01
+196;"Squid Ink";"http://dummyimage.com/129x100.png/dddddd/000000";"Furnitures";1362.72;"2026-06-30";"Will, Rogahn and Nikolaus";9;9000;953.9
+197;"Pasta - Lasagna Noodle, Frozen";"http://dummyimage.com/233x100.png/5fa2dd/ffffff";"Clothing";589.91;"2026-03-06";"Bins-Beahan";22;90000;412.94
+198;"Nori Sea Weed";"http://dummyimage.com/211x100.png/5fa2dd/ffffff";"Home";2422.12;"2023-11-04";"Reynolds Group";23;6000;1695.48
+199;"Sultanas";"http://dummyimage.com/128x100.png/dddddd/000000";"Beauty";3648.79;"2025-11-12";"Schmitt-Sauer";20;7000;2554.15
+200;"Beef Tenderloin Aaa";"http://dummyimage.com/194x100.png/5fa2dd/ffffff";"Beauty";2433.59;"2024-01-01";"Nicolas-Schmitt";33;7000;1703.51
