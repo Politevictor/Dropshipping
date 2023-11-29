@@ -202,11 +202,11 @@ FROM orders O
 JOIN customers C
 ON C.customer_id = O.customer_id 
 GROUP BY 	
-	O.customer_id,  
+    O.customer_id,  
     C.first_name,  
     C.last_name
 ORDER BY 
-	count_year desc, 
+    count_year desc, 
     order_count desc
  ;
 
